@@ -1,0 +1,5 @@
+> Today I spent most of time to learn Git system. It's not easy for me to understand it.
+>Git生成公钥 
+$cd ～/.ssh //首先检查是否已经存在ssh；
+ls -ah //查看文件；
+$ssh-keygen -t rsa -C 56856930@qq.com //如果没有的话，同个这个命令生成公钥
